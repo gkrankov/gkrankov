@@ -1,4 +1,4 @@
-# 🔒 gABOR's SOC Analyst Journey  
+# 🔒 gABOR's Cybersecurity Journey  
 *Transitioning from IT Support to cybersecurity with a focus on threat detection, log analysis, and compliance.*  
 
 ## 🎯 **Mission Statement**  
