@@ -19,7 +19,7 @@
 
 ## 📚 **Learning Path**  
 - **Currently Studying**: Splunk Fundamentals, MITRE ATT&CK Navigator  
-- **Goals for 2024**:  
+- **Goals for 2025**:  
   - Complete LetsDefend’s "Bank Security Breach" simulation  
   - Earn CompTIA CySA+  
 
