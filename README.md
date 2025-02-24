@@ -13,9 +13,9 @@
 ## 📂 **Projects**  
 | Project | Description | Tools Used |  
 |---------|-------------|------------|  
-| [SIEM Lab]([link](https://github.com/gkrankov/SIEM-Lab)) | Built a SIEM with Elastic Stack to detect brute-force attacks | ELK, PfSense, Windows Event Logs |  
+| [SIEM Lab](https://github.com/gkrankov/SIEM-Lab) | Built a SIEM with Elastic Stack to detect brute-force attacks | ELK, PfSense, Windows Event Logs |  
 | [Phishing Analysis](link) | Reverse-engineered a malicious email campaign | Hybrid Analysis, Any.Run |  
-| [SOC Playbook]([link](https://github.com/gkrankov/incident-response-playbooks)) | Incident response guide for ransomware scenarios | NIST CSF, Splunk SPL |  
+| [SOC Playbook](https://github.com/gkrankov/incident-response-playbooks) | Incident response guide for ransomware scenarios | NIST CSF, Splunk SPL |  
 
 ## 📚 **Learning Path**  
 - **Currently Studying**: Splunk Fundamentals, MITRE ATT&CK Navigator  
